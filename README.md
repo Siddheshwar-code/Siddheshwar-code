@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddheshwar-code
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning I'm diving deep into:
+- 🌱  I'm diving deep into:
 
 Spring Boot for building robust backend applications.
 Microservices Architecture to design scalable systems.
